@@ -1,0 +1,29 @@
+{
+  "name": "atividade-nasa-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon ./bin/www"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodrigocastro-lancaivos/Atividade-NASA-API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/rodrigocastro-lancaivos/Atividade-NASA-API/issues"
+  },
+  "homepage": "https://github.com/rodrigocastro-lancaivos/Atividade-NASA-API#readme",
+  "dependencies": {
+    "axios": "^1.17.0",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "express-generator": "^4.16.1",
+    "nodemon": "^3.1.14"
+  }
+}
